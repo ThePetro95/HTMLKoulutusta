@@ -1,0 +1,15 @@
+th {
+    background-color: teal;
+}
+
+body {
+    background-image: url("paper.gif");
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
